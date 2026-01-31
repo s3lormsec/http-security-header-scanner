@@ -12,3 +12,6 @@ An offensive security reconnaissance tool that checks web applications for missi
 pip3 install requests
 python3 scanner.py
 
+**## Disclaimer**
+
+Use only on systems you own or have explicit permission to test.
